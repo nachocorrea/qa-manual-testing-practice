@@ -1,5 +1,5 @@
 Bug ID: 01
-Title: Incorrect error message when password field is empty
+Title: Incorrect validation message when password field is empty
 Reported by: Ignacio Correa
 Environment: Ubuntu / Chrome
 Severity: Medium
