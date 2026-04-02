@@ -1,11 +1,11 @@
-Title: Some images fail to load
-Environment: Ubuntu / Chrome
-Severity: Medium
-Priority: High
-Steps to Reproduce:
-    1. Go to https://the-internet.herokuapp.com/broken_images 
-    2. Observe images 
+Test Suite: Dropdown
+Test Case 1: Dropdown selection
+Description: Verify dropdown functionality
+Steps:
+    1. Go to https://the-internet.herokuapp.com/dropdown 
+    2. Click on dropdown 
+    3. Select Option 1 
+    4. Select Option 2 
 Expected Result:
-All images should load correctly
-Actual Result:
-Some images are broken and do not load
+Selected option is displayed correctly in the dropdown
+
